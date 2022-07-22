@@ -32,6 +32,7 @@ body {
     font-size: 20px;
 }
 
+/* Flex and justification used to keep header list in upper-right */
 .header section ul {
     list-style-type: none;
     display: flex;
@@ -104,6 +105,7 @@ p {
     color: #ffffff;
 }
 
+/* Updated header sizes for descending, more intuitive order */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -191,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer modified and named with reader-friendly semantic labeling */
 .footer {
     padding: 30px;
     clear: both;
